@@ -7,7 +7,7 @@ plugins {
 
 android {
     namespace = "com.example.google_maps_practice"
-    compileSdk = flutter.compileSdkVersion
+    compileSdk = 34
     ndkVersion = flutter.ndkVersion
 
     compileOptions {
